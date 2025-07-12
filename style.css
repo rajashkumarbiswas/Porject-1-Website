@@ -1,0 +1,21 @@
+/*Navbar*/
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-image: url("Assets/Hero-bg.png");
+    background-size: cover;
+}
+
+.navbar .btn{
+    text-decoration: none;
+}
+
+.btn{
+    background-color:#4E47FF ;
+    color: white;
+    border-radius: 5px; 
+    
+
+}
