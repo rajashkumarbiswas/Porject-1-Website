@@ -174,3 +174,54 @@ body{
     margin-right: 20px;
 
 }
+
+.info{
+    display: flex;
+    gap: 100px;
+}
+
+.info h1{
+    font-size: bold;
+    font-weight: ;
+    height: 232px;
+    width: 500px;
+    margin-left: 150px;
+}
+.information{
+    margin-top: 70px;
+    background-color: #eaecf0;
+  
+
+}
+
+.information .info h1{
+    font-size: 48px;
+    font-weight: 1000;
+    justify-content: center;
+    text-align: center;
+    margin-top: 170px;
+    
+   
+   
+}
+
+.information .form{
+    margin-left: 190px;
+}
+
+.information .form input{
+    height: 70px;
+    width: 497px;
+    border-radius: 10px;
+    border: none;
+}
+.information .info .form .area{
+        height: 80px;
+        width: 500px;
+        border-radius: 10px;
+        border: none;
+}
+
+.information .form .btn{
+    border: none;
+}
